@@ -1,0 +1,28 @@
+/* Base */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  line-height: 1;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Header */
+
+.film__header {
+  position: fixed;
+  width: 100%;
+
+  background-color: #111111;
+  padding: 20px;
+}
+
+.film__img {
+  width: 140px;
+}
